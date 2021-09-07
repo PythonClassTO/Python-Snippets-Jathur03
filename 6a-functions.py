@@ -1,4 +1,6 @@
 print('--------------------------------------------6a-Functions--------------------------------------------')
+print("Hello how is your day?")
+
 def greet_user():
     """Display a simple greeting."""
     print("Hello")
