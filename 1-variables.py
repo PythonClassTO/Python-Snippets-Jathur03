@@ -2,7 +2,7 @@ print('--------------------------------------------1-Variables------------------
 
 import this
 
-message = "Hello World"
+message = "Hello World, hello"
 print(message)
 
 first_name = 'Jathur'
